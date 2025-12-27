@@ -1,0 +1,14 @@
+**/appsettings.Development.json
+**/appsettings.*.json
+!**/appsettings.json
+!**/appsettings.example.json
+**/wwwroot/uploads/
+**/wwwroot/uploads/**
+
+
+*.log
+
+bin/
+obj/
+.vs/
+/ReportsContracts
